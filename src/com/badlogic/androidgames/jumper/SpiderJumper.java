@@ -6,7 +6,7 @@ import javax.microedition.khronos.opengles.GL10;
 import com.badlogic.androidgames.framework.Screen;
 import com.badlogic.androidgames.framework.impl.GLGame;
 
-public class SuperJumper extends GLGame {
+public class SpiderJumper extends GLGame {
     boolean firstTimeCreate = true;
     
     public Screen getStartScreen() {
